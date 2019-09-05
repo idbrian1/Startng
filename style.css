@@ -1,0 +1,31 @@
+.blk{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: black;
+  color: white;
+}
+.pad{
+  padding: 15px;
+  align-self: auto;
+}
+body{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.tab{
+  width: 100%;
+  text-align: center;
+}
+#met{
+  font-display: bold;
+  border: 2px solid black;
+  padding: 10px;
+}
+a:hover{
+  color: coral
+}
+#head{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+}
+img{
+  height: 12em;background-color: semi-transparent black;max-height: 100%;float: left;
+}
